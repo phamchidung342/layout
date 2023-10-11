@@ -1,0 +1,42 @@
+body{
+    color: white;
+    background-color: rgb(111, 109, 109);
+    margin: 0px;
+}
+ul li{
+    display: inline;
+    margin: 15px;
+}
+li a{
+    text-decoration: none;
+}
+nav{
+    text-align: right;
+}
+.left-section{
+    width: 130px;
+    margin-left: 10px;
+    background-color: white;
+    color: black;
+    float: left;
+    height: 635px;
+}
+
+.right-section{
+    width: 480px;
+    margin-right: auto;
+    background-color: rgb(136, 129, 129);
+    color: rgb(255, 255, 255);
+    float: right;
+}
+
+footer{
+    text-align: center;
+    clear: both;
+    line-height: 50px;
+    border: 2px;
+    background-color: rgb(189, 187, 187);
+}
+   
+
+
